@@ -1,3 +1,7 @@
+# First try at using dev containers.
+
+Trying to add basic DevOps toolchain : python, awscli, ansible, chamber, terraform.  
+
 # VS Code Remote / GitHub Codespaces Container Definitions
 
 <table style="width: 100%; border-style: none;"><tr>
